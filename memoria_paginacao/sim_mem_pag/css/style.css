@@ -1,0 +1,8 @@
+div{
+    display: table-cell;
+    vertical-align: middle
+}
+
+body {
+    background-color: grey
+}
